@@ -58,6 +58,7 @@ require("lazy").setup({
 		{ import = "plugins.illuminate" },
 		{ import = "plugins.statuscol" },
 		{ import = "plugins.flash" },
+    { import = "plugins.neorg" },
 	},
 	-- UI configs
 	ui = {
